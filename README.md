@@ -1,2 +1,2 @@
 # Angelina Gonzalez's UX Journal
-![User interface](assets/Angelina Picture.png)
+![ux-amgonzalez18](assets/AngelinaPicture.png)
