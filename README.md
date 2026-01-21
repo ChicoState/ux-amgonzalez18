@@ -1,1 +1,1 @@
-# ___'s UX Journal
+# Angelina Gonzalez's UX Journal
